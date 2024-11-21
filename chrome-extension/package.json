@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s01uaas",
+  "description": "https://scrimba.com/learn-javascript-c0v/~056/s07g3nar5l/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
